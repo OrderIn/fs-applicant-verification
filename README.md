@@ -47,4 +47,10 @@ Consider each animal to have the following similar traits:
 
 ---
 
-## Question 4 - ...
+## Question 4 - Patterns
+
+> _Our e-commerce application has to have multiple different payment option types. Credit card, debit card and EFT, and perhaps another option later on._
+
+**_Can you implement a pattern that will assist in deciding which process workflow to invoke based on a payment option type?_**
+
+**_Can you implement a pattern where it'll be simple to add any new payment option type workflows?_**
