@@ -54,3 +54,5 @@ Consider each animal to have the following similar traits:
 **_Can you implement a pattern that will assist in deciding which process workflow to invoke based on a payment option type?_**
 
 **_Can you implement a pattern where it'll be simple to add any new payment option type workflows?_**
+
+_NOTE: You're welcome to add new files to your solution._
