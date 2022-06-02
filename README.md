@@ -47,7 +47,7 @@ Consider each animal to have the following similar traits:
 
 ---
 
-## Question 4 - Patterns
+## Question 4 - Code Patterns
 
 > _Our e-commerce application has to support different payment options. Credit card, debit card and EFT, and perhaps another option later on._
 
